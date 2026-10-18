@@ -1,4 +1,4 @@
-# picoCTF — Obedient Cat
+# picoCTF — WAVE A FLAG
 ## Challenge Information
 
 ## - Platform: picoCTF
