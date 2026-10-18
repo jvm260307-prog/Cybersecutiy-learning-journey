@@ -43,8 +43,8 @@ What I Learned
 
 ## Evidence
 
-![CTF solution screenshot 1](<img width="1920" height="1080" alt="warm up ctf1 jpg" src="https://github.com/user-attachments/assets/76c9366a-00b0-4b13-8fd3-7afe0af3b58a" />
+![CTF solution screenshot 1](https://github.com/user-attachments/assets/76c9366a-00b0-4b13-8fd3-7afe0af3b58a
 )
 
-![CTF solution screenshot 2](<img width="1920" height="1080" alt="warmup ctf1" src="https://github.com/user-attachments/assets/9de0a332-b409-44b8-8852-5ae7940535a2" />
+![CTF solution screenshot 2](https://github.com/user-attachments/assets/9de0a332-b409-44b8-8852-5ae7940535a2
 )
