@@ -42,5 +42,6 @@ What I Learned
 - How to approach a beginner CTF challenge by inspecting the provided attachment.
 
 Evidence
-
+![Warmed Up CTF evidence]( <img width="1920" height="1080" alt="warm up ctf1 jpg" src="https://github.com/user-attachments/assets/cec48014-b916-45fc-9821-d3ccbd0abe0a" />
+)
     <img width="1920" height="1080" alt="warm up ctf1 jpg" src="https://github.com/user-attachments/assets/cec48014-b916-45fc-9821-d3ccbd0abe0a" />
