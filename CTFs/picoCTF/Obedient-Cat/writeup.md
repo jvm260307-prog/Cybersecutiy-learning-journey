@@ -41,7 +41,10 @@ What I Learned
 - How to read file contents using "cat".
 - How to approach a beginner CTF challenge by inspecting the provided attachment.
 
-Evidence
-![Warmed Up CTF evidence]( <img width="1920" height="1080" alt="warm up ctf1 jpg" src="https://github.com/user-attachments/assets/cec48014-b916-45fc-9821-d3ccbd0abe0a" />
+## Evidence
+
+![CTF solution screenshot 1](<img width="1920" height="1080" alt="warm up ctf1 jpg" src="https://github.com/user-attachments/assets/76c9366a-00b0-4b13-8fd3-7afe0af3b58a" />
 )
-    <img width="1920" height="1080" alt="warm up ctf1 jpg" src="https://github.com/user-attachments/assets/cec48014-b916-45fc-9821-d3ccbd0abe0a" />
+
+![CTF solution screenshot 2](<img width="1920" height="1080" alt="warmup ctf1" src="https://github.com/user-attachments/assets/9de0a332-b409-44b8-8852-5ae7940535a2" />
+)
